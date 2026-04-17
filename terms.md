@@ -40,6 +40,4 @@
   ## 8. Contact
   For questions, contact: giseokson@gmail.com
 
-  5. Commit changes... → Commit changes
-
   ---
