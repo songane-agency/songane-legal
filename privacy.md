@@ -1,8 +1,3 @@
-
-  ---
-  title: Privacy Policy
-  ---
-
   # Privacy Policy
 
   **Last Updated: April 17, 2026**
@@ -47,7 +42,3 @@
 
   ## 10. Contact
   For questions, contact: giseokson@gmail.com
-
-  → Commit changes.
-
-  ---
